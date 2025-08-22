@@ -1,0 +1,13 @@
+name: PSReflect
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/96cdec41-2658-4119-b384-b87f5cf8d6c8
+description: Easily define in-memory enums, structs, and Win32 functions in PowerShell
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
